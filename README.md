@@ -21,9 +21,9 @@ Now, you can either write down IDs manually or make screenshots and feed them to
 
 If you need a good Image To Text service, [this website](https://ifimageediting.com/image-to-text) should do the trick! It supports a large amount of screenshots at once and is free to use. There might be better options you are aware of, but this is the one I've found that has helped me the most.
 
-**Just make sure you don't click on advertisements pretending to be buttons.** These specific parts of the website (that being the dropzone and the buttons) should be the only things you need to touch. Anything else is either irrelevant or an advertisement in disguise.
+**Just make sure you don't click on advertisements pretending to be buttons.** These specific parts of the website should be the only things you need to touch. Anything else is either irrelevant or an advertisement in disguise.
 
-Also, make sure the environment behind the developer console isn't too noisy or contains underlying text. The service often has trouble determining the contrast between the text and the rest of the image if the background is too complex, and can accidentally assume unrelated text as part of the conversion if you don't properly set up the screenshot to be simple enough for the service to understand.
+Also, make sure the environment behind the developer console in screenshots isn't too noisy or contains underlying text. The service often has trouble determining the contrast between the text and the rest of the image if the background is too complex, and can accidentally assume unrelated text as part of the conversion if you don't properly set up the screenshot to be simple enough for the service to understand.
 
 ![image](https://github.com/user-attachments/assets/d82c0a8a-96f9-4293-ad65-f3ad5c05bf80)
 ![image](https://github.com/user-attachments/assets/1aeef156-ee33-4fb8-98ea-c5c0107076c8)
