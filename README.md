@@ -15,11 +15,15 @@ If you want to get new AssetIDS into the generated page, you can append rbxasset
 ### Finding new assets
 If you are looking for assets within other games, you can press `F9` and click the Memory tab from there. Afterwards, search for `GraphicsTexture`.
 
+![image](https://github.com/user-attachments/assets/ee47f560-e70e-43b2-bbc6-2dc4e103fd1f)
+
 Now, you can either write down IDs manually or make screenshots and feed them to a Image To Text service. The latter option is usually much easier and quicker, as there can be hundreds of assets to look through.
 
 If you need a good Image To Text service, [this website](https://ifimageediting.com/image-to-text) should do the trick! It supports a large amount of screenshots at once and is free to use. There might be better options you are aware of, but this is the one I've found that has helped me the most.
 
 **Just make sure you don't click on advertisements pretending to be buttons.** These specific parts of the website (that being the dropzone and the buttons) should be the only things you need to touch. Anything else is either irrelevant or an advertisement in disguise.
+
+Also, make sure the environment behind the developer console isn't too noisy or contains underlying text. The service often has trouble determining the contrast between the text and the rest of the image if the background is too complex, and can accidentally assume unrelated text as part of the conversion if you don't properly set up the screenshot to be simple enough for the service to understand.
 
 ![image](https://github.com/user-attachments/assets/cf984465-40cf-4579-b011-f8547bc0b1e6)
 ![image](https://github.com/user-attachments/assets/1aeef156-ee33-4fb8-98ea-c5c0107076c8)
