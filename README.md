@@ -25,5 +25,5 @@ If you need a good Image To Text service, [this website](https://ifimageediting.
 
 Also, make sure the environment behind the developer console isn't too noisy or contains underlying text. The service often has trouble determining the contrast between the text and the rest of the image if the background is too complex, and can accidentally assume unrelated text as part of the conversion if you don't properly set up the screenshot to be simple enough for the service to understand.
 
-![image](https://github.com/user-attachments/assets/cf984465-40cf-4579-b011-f8547bc0b1e6)
+![image](https://github.com/user-attachments/assets/d82c0a8a-96f9-4293-ad65-f3ad5c05bf80)
 ![image](https://github.com/user-attachments/assets/1aeef156-ee33-4fb8-98ea-c5c0107076c8)
